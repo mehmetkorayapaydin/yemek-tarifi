@@ -1,2 +1,2 @@
 # yemek-tarifi
-Çikolatalı Küp Tarifi
+Çikolatalı Kup Tarifi
